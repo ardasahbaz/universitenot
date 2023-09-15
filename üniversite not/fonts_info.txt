@@ -1,0 +1,10 @@
+List of Fonts used in template 
+
+
+
+
+Cutive			http://www.google.com/fonts/specimen/Cutive
+Font Awesome		http://fortawesome.github.io/Font-Awesome
+Roboto			http://www.google.com/fonts/specimen/Roboto
+Roboto Slab		http://www.google.com/fonts/specimen/Roboto+Slab
+	

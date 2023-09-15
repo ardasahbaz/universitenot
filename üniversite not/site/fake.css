@@ -1,0 +1,8 @@
+.none{
+    display: none;
+}
+
+
+.btns button:hover {
+    background-color: #00b9d1;
+}
